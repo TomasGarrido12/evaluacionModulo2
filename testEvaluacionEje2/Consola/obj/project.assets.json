@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\testEvaluacionEje2\\Consola\\Consola.csproj",
+      "projectUniqueName": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\evaluacionModulo2\\testEvaluacionEje2\\Consola\\Consola.csproj",
       "projectName": "Consola",
-      "projectPath": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\testEvaluacionEje2\\Consola\\Consola.csproj",
+      "projectPath": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\evaluacionModulo2\\testEvaluacionEje2\\Consola\\Consola.csproj",
       "packagesPath": "C:\\Users\\garri\\.nuget\\packages\\",
-      "outputPath": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\testEvaluacionEje2\\Consola\\obj\\",
+      "outputPath": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\evaluacionModulo2\\testEvaluacionEje2\\Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\garri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\testEvaluacionEje2\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
-              "projectPath": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\testEvaluacionEje2\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
+            "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\evaluacionModulo2\\testEvaluacionEje2\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+              "projectPath": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\evaluacionModulo2\\testEvaluacionEje2\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
             }
           }
         }

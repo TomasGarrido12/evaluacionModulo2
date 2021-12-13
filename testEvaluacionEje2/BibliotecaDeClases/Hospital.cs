@@ -11,6 +11,7 @@ namespace BibliotecaDeClases
         public Queue<Medico> medicosDisponibles;
         private PuestoDeAtencion consultorio;
         public Queue<Consulta> listaDeConsulta;
+        private string nombre;
 
         public int PacientesPendientes
         {
@@ -21,12 +22,16 @@ namespace BibliotecaDeClases
             get { return listaDeConsulta.Dequeue(); }//Para finalizar la consulta
             set { _ = this + value; }
         }
-        public Hospital()
+        private Hospital()
         {
             Medico.listaDeEspera = new Queue<Paciente>();
             medicosDisponibles = new Queue<Medico>();
             listaDeConsulta = new Queue<Consulta>();
             consultorio = new PuestoDeAtencion(PuestoDeAtencion.Consultorio.Consultorio1);
+        }
+        public Hospital(string nombre):this()
+        {
+            this.nombre = nombre;
         }
         public Medico Medico
         {
@@ -51,7 +56,7 @@ namespace BibliotecaDeClases
         }
         public static bool operator !=(Hospital h, Consulta c)
         {
-            return !(h== c);
+            return !(h == c);
         }
         public static bool operator +(Hospital h, Consulta c)
         {

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\testEvaluacionEje2\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+      "projectUniqueName": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\evaluacionModulo2\\testEvaluacionEje2\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
       "projectName": "BibliotecaDeClases",
-      "projectPath": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\testEvaluacionEje2\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+      "projectPath": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\evaluacionModulo2\\testEvaluacionEje2\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
       "packagesPath": "C:\\Users\\garri\\.nuget\\packages\\",
-      "outputPath": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\testEvaluacionEje2\\BibliotecaDeClases\\obj\\",
+      "outputPath": "D:\\Proem\\ejerciciosProem\\ejercicioNet\\ejerciciosPOO\\testEvaluacionModulo2\\evaluacionModulo2\\testEvaluacionEje2\\BibliotecaDeClases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\garri\\AppData\\Roaming\\NuGet\\NuGet.Config",

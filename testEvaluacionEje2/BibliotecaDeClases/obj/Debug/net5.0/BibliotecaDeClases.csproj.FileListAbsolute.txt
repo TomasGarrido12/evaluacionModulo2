@@ -10,3 +10,15 @@ D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\testEv
 D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.dll
 D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\obj\Debug\net5.0\ref\BibliotecaDeClases.dll
 D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.pdb
+D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\evaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.deps.json
+D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\evaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.dll
+D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\evaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\bin\Debug\net5.0\ref\BibliotecaDeClases.dll
+D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\evaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.pdb
+D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\evaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.csproj.AssemblyReference.cache
+D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\evaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\evaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.AssemblyInfoInputs.cache
+D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\evaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.AssemblyInfo.cs
+D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\evaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\evaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.dll
+D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\evaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\obj\Debug\net5.0\ref\BibliotecaDeClases.dll
+D:\Proem\ejerciciosProem\ejercicioNet\ejerciciosPOO\testEvaluacionModulo2\evaluacionModulo2\testEvaluacionEje2\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.pdb
