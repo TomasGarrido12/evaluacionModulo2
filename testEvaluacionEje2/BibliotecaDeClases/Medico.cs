@@ -32,7 +32,11 @@ namespace BibliotecaDeClases
             set { atendiendo = value; }
         }
 
-        public Medico(string nombre, string apellido, string especialidad, int pacientesAtendidos, bool atendiendo) : base(nombre, apellido)
+        private Medico(string nombre, string apellido):base(nombre,apellido)
+        {
+            this.listaDeEspera = new Queue<Paciente>();
+        }
+        public Medico(string nombre, string apellido, string especialidad, int pacientesAtendidos, bool atendiendo) : this(nombre,apellido)
         {
             this.especialidad = especialidad;
             this.pacientesAtendidos = pacientesAtendidos;

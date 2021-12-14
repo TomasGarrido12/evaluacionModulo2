@@ -24,7 +24,6 @@ namespace BibliotecaDeClases
         }
         private Hospital()
         {
-            Medico.listaDeEspera = new Queue<Paciente>();
             medicosDisponibles = new Queue<Medico>();
             listaDeConsulta = new Queue<Consulta>();
             consultorio = new PuestoDeAtencion(PuestoDeAtencion.Consultorio.Consultorio1);
